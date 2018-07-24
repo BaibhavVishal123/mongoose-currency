@@ -1,5 +1,5 @@
 {
-    "name": "mongoose-currency",
+    "name": "mongoose-5-2-currency",
     "version": "0.2.1",
     "description": "Adds schema type \"currency\" to mongoose. Great for converting user input.",
     "main": "index.js",
